@@ -1,0 +1,2 @@
+# mavenjob-pom
+practice mavenjob
